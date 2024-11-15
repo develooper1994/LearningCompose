@@ -65,7 +65,6 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.withContext
 import java.net.URL
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Preview(showBackground = true)
 @Composable
 fun Design1Preview() {
